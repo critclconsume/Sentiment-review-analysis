@@ -9,5 +9,5 @@ Library :
 - Scikit-Learn
 
   Datasets
-  Amazon Fine Food Reviews (Reviews.csv) https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
-  Amazon Product Reviews (Reveiws2.csv) https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
+Amazon Fine Food Reviews (Reviews.csv) https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+Amazon Product Reviews (Reveiws2.csv) https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
